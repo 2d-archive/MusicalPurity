@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+
+build/
+out/
+bin/
+
+config.toml
+
+*.jar
+*.war
+*.zip
+*.tar
